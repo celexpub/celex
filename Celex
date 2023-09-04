@@ -1,0 +1,2 @@
+script_key = getgenv().Celex['Preload']['Whitelist Key']
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/519ccbfb7fbf529974888acd0115051b.lua"))()
